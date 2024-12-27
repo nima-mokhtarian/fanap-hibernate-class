@@ -1,0 +1,1 @@
+# fanap-hibernate-class
